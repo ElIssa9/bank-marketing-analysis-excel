@@ -76,7 +76,7 @@ Additional dashboard sections:
 
 ## Workbook and reproduction
 
-The workbook contains four sheets: **Dashboard**, **Analysis**, **Bank_Data** and **Data_Dictionary**. The native workbook is built in Excel; see [workbook handoff](workbook/README.md) for the final file location and save step.
+**[Download the Excel workbook](workbook/Bank_Marketing_Analysis.xlsx).** It contains four sheets: **Dashboard**, **Analysis**, **Bank_Data** and **Data_Dictionary**. The saved file includes all 10 native PivotTables and 10 editable charts. See the [workbook notes](workbook/README.md) for usage and refresh instructions.
 
 - [Step-by-step Excel build guide](docs/excel-walkthrough.md)
 - [Interview preparation and CV wording](docs/interview-and-cv.md)
