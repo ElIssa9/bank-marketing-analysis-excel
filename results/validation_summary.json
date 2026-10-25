@@ -1,0 +1,36 @@
+{
+  "source_file": "data/raw/bank-additional-full.csv",
+  "source_sha256": "74adfc578bf77a7ff4bb1ba4a9f8709d9e3c6907342959c2c8416847e0afb4d8",
+  "source_columns": 21,
+  "records": 41188,
+  "subscriptions": 4640,
+  "non_subscriptions": 36548,
+  "subscription_rate": 0.11265417111780131,
+  "average_campaign_contacts": 2.567592502670681,
+  "excess_exact_repeated_rows_retained": 12,
+  "unknown_values_by_field": {
+    "job": 330,
+    "marital": 80,
+    "education": 1731,
+    "default": 8597,
+    "housing": 990,
+    "loan": 990
+  },
+  "pdays_999_records": 39673,
+  "missing_values": 0,
+  "observed_months": [
+    "apr",
+    "aug",
+    "dec",
+    "jul",
+    "jun",
+    "mar",
+    "may",
+    "nov",
+    "oct",
+    "sep"
+  ],
+  "age_minimum": 17,
+  "age_maximum": 98,
+  "grouped_dimensions_reconciled": 10
+}
