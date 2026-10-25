@@ -79,7 +79,6 @@ Additional dashboard sections:
 **[Download the Excel workbook](workbook/Bank_Marketing_Analysis.xlsx).** It contains four sheets: **Dashboard**, **Analysis**, **Bank_Data** and **Data_Dictionary**. The saved file includes all 10 native PivotTables and 10 editable charts. See the [workbook notes](workbook/README.md) for usage and refresh instructions.
 
 - [Step-by-step Excel build guide](docs/excel-walkthrough.md)
-- [Interview preparation and CV wording](docs/interview-and-cv.md)
 - [Source, license and provenance](data/DATA_SOURCE.md)
 - [Validation summary](results/validation_summary.json)
 - [Live Excel verification record](docs/verification.md)
