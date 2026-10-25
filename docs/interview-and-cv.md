@@ -60,4 +60,4 @@ Oktober 2026
 - Aufbereitung und Analyse von 41.188 öffentlich verfügbaren Bank-Marketing-Datensätzen in Excel, einschließlich dokumentierter Datenqualitätsprüfungen und vier berechneter Analysefelder.
 - Erstellung von 10 PivotTables und 10 Dashboard-Diagrammen zum Vergleich von Abschlussquoten, Gruppengrößen und Kontaktmustern; Abgleich der Ergebnisse mit unabhängigen Kontrollberechnungen.
 
-Add the actual repository link after publication. Use the date the portfolio project was built. This entry should not be described as work for Arab Bank or as a project completed in 2025.
+Repository: [github.com/ElIssa9/bank-marketing-analysis-excel](https://github.com/ElIssa9/bank-marketing-analysis-excel). Use the date the portfolio project was built. This entry should not be described as work for Arab Bank or as a project completed in 2025.
