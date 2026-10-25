@@ -1,10 +1,10 @@
 # Bank Marketing Campaign Analysis in Excel
 
-An independent portfolio project by **Abdul-Rahman El-Issa** exploring which customer profiles and contact patterns are associated with term-deposit subscriptions in a historical Portuguese banking campaign sample.
+I'm **Abdul Rahman El Issa**, a Business Intelligence student. In this project, I used Excel to analyze public data from a Portuguese banking campaign.
 
-**Tools:** Microsoft Excel for Mac, calculated fields, Excel Tables, 10 native PivotTables, GETPIVOTDATA and 10 editable charts. A small Python script independently verifies the source data and all group summaries.
+I worked with 41,188 campaign records to compare subscription rates across customer groups, contact methods and previous campaign outcomes.
 
-This is a public-data portfolio project. It does not represent work commissioned by Arab Bank or a relationship with the unnamed source bank.
+I built the dashboard in Excel and used Python to check the results.
 
 ![Dashboard overview](screenshots/overview.png)
 
