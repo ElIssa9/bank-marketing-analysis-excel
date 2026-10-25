@@ -14,4 +14,4 @@ Verified in the connected Microsoft Excel for Mac workbook on 25 October 2026:
 - The original no outcome was restored, the PivotTable refreshed, and the baseline and housemaid results rechecked. No temporary test data remains.
 - The included Python validation checks source schema, numeric validity, original totals, repeated-row count, band boundaries and group reconciliation. Its generated outputs are in results/.
 
-The screenshots are native range captures of the Excel dashboard. The tests above establish live workbook behavior. They do not prove that the final workbook has been saved to disk or published; those handoff steps are tracked separately in workbook/README.md.
+The screenshots are native range captures of the Excel dashboard. After the user saved the final file, the saved XLSX package was checked for the four expected sheets, 10 native charts and 10 PivotTables. The saved workbook is included at workbook/Bank_Marketing_Analysis.xlsx.
